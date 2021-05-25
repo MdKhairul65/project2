@@ -1,0 +1,183 @@
+
+
+.cl-1{
+
+    background-color:  rgba(240, 255, 240, 1);
+  
+}
+.cl-2{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    
+}
+
+.About{
+color: white;
+    width: 100px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+}
+
+.nav-logo{
+    margin-bottom: 50px;
+
+}
+
+.s-1{
+    margin-left: 50px;
+
+
+}
+
+.c-1{
+    color: rgba(253, 81, 26, 1);
+
+}
+
+.c-3{
+    color:rgba(33, 181, 115, 1);;
+ 
+}
+.c-4{
+    color: rgba(108, 107, 107, 1);
+}
+.b-1{
+    background-color:rgba(33, 181, 115, 1);
+    border-radius: 33px;
+    font-size: 19px;
+    color: white;
+    margin-top: 15px;
+    height: 43px;
+    width: 153px;
+    left: 205px;
+    padding: 12px, 36px, 12px, 36px;
+    line-height: 19px;
+}
+.im-1{
+height: 85px;
+width: 66px;
+left: 231px;
+top: 672px;
+border-radius: 0px;
+margin-left: 70px;
+margin-top: 54px;
+
+
+}
+.im-2{
+    height: 83px;
+    width: 80px;
+    left: 535px;
+    top: 670px;
+    border-radius: 0px;
+    margin-left: 70px;
+margin-top: 54px;
+    
+}
+.im-3{
+    height: 80px;
+    width: 75px;
+    left: 831px;
+    top: 670px;
+    border-radius: 0px;
+    margin-left: 70px;
+margin-top: 54px;
+    
+}
+.im-4{
+    height: 76px;
+    width: 68px;
+    left: 1141px;
+    top: 677px;
+    border-radius: 0px;
+    margin-left: 70px;
+margin-top: 54px;
+    
+}
+
+.box-1{ 
+    height: 270px;
+    width: 270px;
+    left: 135px;
+    top: 618px;
+    border-radius: 10px;
+    background: #F8FFFB;
+ 
+ 
+
+}
+.box-2{
+    height: 270px;
+    width: 270px;
+    left: 435px;
+    top: 618px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px  rgb(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+}
+.box-3{
+    width: 270px;
+    height: 270px;
+    left: 734px;
+    top: 618px;
+    border-radius: 10px;
+}
+.box-4{
+    
+    height: 270px;
+    width: 270px;
+    left: 135px;
+    top: 618px;
+    border-radius: 10px;
+    background: #F8FFFB;
+
+}
+.box-1 h5 h6{
+    text-align: center;
+} 
+
+.cd-text{
+    text-align: center;
+    color: rgba(65, 57, 96, 1);
+    margin-bottom: 40px;
+}
+.card-img-top{
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.card-title{
+    color: #413960
+}
+.card-text{
+    color: #413960
+}
+.icon{
+    height: 20px;
+}
+.i-text{
+    font-size:12px;
+}
+
+.cd{
+padding-top: 25px;
+}
+.man{
+height: 90px;
+}
+.ar-1{
+    margin-bottom: 50px;
+}
+.last{
+   background-color: rgba(40, 37, 49, 1);
+   color: white;
+}
+.l-sec{
+    padding: 40px;
+}
+footer{
+    margin-top:30px;
+}
